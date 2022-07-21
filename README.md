@@ -22,6 +22,9 @@ back-end Developer ,Self - Taught Developer,and Web Enthusiast.
 
 - 📫 How to reach me **TahaM8000@gmail.com**
 
+<br>
+<br>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taha-mousavi-301b88245/)
 <!-- [![Facebook Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.facebook.com/nadjafovp/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://nadjafovp.medium.com/)  -->
