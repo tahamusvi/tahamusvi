@@ -11,15 +11,13 @@
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><h2 align="left" font-weight="bold">About me</h2>  
 
 
-- 🔭 I’m currently working on [Django development](https://github.com/huseynmv/PragmatechPythonProject)
+- 🔭 I’m currently working on [Farline](https://github.com/TahaM8000/Toos)
 
 - 🌱 I’m currently learning **Python/Django**
 
-- 👨‍💻 All of my projects are available at [huseynmv.herokuapp.com](https://huseynmv.herokuapp.com)
+<!-- - 👨‍💻 All of my projects are available at [huseynmv.herokuapp.com](https://huseynmv.herokuapp.com) -->
 
-- 📝 I regularly write articles on [https://medium.com/@huseynmv](https://medium.com/@huseynmv)
-
-- 📫 How to reach me **huseynmv@yahoo.com**
+- 📫 How to reach me **TahaM8000@gmail.com**
 
 
 
