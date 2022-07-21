@@ -29,7 +29,7 @@
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="200"></td>
       <td><img src="https://download.services.iconscout.com/download?name=nginx&download=1&url=https%3A%2F%2Fd1b1fjiwh8olf2.cloudfront.net%2Ficon%2Ffree%2Fpng-256%2F2945048.png%3Ftoken%3DeyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkMWIxZmppd2g4b2xmMi5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTY1ODYyMDgwMCwicSI6bnVsbCwiaWF0IjoxNjU4NDI3Njk0fQ__.e1426a1ff86bb70cd53f251ab891bcd4b0230be922373db3cf3c965e8008f044&width=256&height=256" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
+      <td><img src="https://iconscout.com/icons/postgresql" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-4-226082.png" width="200"></td>
