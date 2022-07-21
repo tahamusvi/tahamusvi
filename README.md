@@ -22,18 +22,18 @@
 <h2 font-weight="bold">MY 𝐒𝐤𝐢𝐥𝐥s</h2>
 <table>
   <tr>
+  <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="200"></td>
+  <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_pivx.png?raw=true" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-4-226082.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="200"></td>
-      <td><img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="200"></td>
+      <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png" width="200"></td>
   </tr>
 </table>
 <br/>
