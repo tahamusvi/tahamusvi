@@ -24,12 +24,12 @@
   <tr>
   <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="200"></td>
   <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="200"></td>
-      <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="200"></td>
       <td><img src="https://download.services.iconscout.com/download?name=nginx&download=1&url=https%3A%2F%2Fd1b1fjiwh8olf2.cloudfront.net%2Ficon%2Ffree%2Fpng-256%2F226030.png%3Ftoken%3DeyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkMWIxZmppd2g4b2xmMi5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTY1ODYyMDgwMCwicSI6bnVsbCwiaWF0IjoxNjU4NDI4MDk0fQ__.c1be5e9403be5d1b8d13d84b85710d749e01b3eac43ca7d24139193961e59a0d&width=256&height=256" width="200"></td>
       <td><img src="https://download.services.iconscout.com/download?name=postgresql&download=1&url=https%3A%2F%2Fd1b1fjiwh8olf2.cloudfront.net%2Ficon%2Ffree%2Fpng-256%2F226047.png%3Ftoken%3DeyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkMWIxZmppd2g4b2xmMi5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTY1ODYyMDgwMCwicSI6bnVsbCwiaWF0IjoxNjU4NDI3OTI5fQ__.05ad22d02e9099a4043bdfdb7495ebd9ac67801395d49081090148bad766b4ce&width=256&height=256" width="200"></td>
+      <td><img src="https://download.services.iconscout.com/download?name=rabbitmq&download=1&url=https%3A%2F%2Fd1b1fjiwh8olf2.cloudfront.net%2Ficon%2Ffree%2Fpng-256%2F282296.png%3Ftoken%3DeyJhbGciOiJoczI1NiIsImtpZCI6ImRlZmF1bHQifQ__.eyJpc3MiOiJkMWIxZmppd2g4b2xmMi5jbG91ZGZyb250Lm5ldCIsImV4cCI6MTY1ODYyMDgwMCwicSI6bnVsbCwiaWF0IjoxNjU4NDI4MTg2fQ__.c716a711a64e2d5347f11cf579455d518419ef803b9e86f614e81d0d4a648a67&width=256&height=256" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="200"></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-4-226082.png" width="200"></td>
