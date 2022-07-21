@@ -11,12 +11,15 @@
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><h2 align="left" font-weight="bold">About me</h2>  
 
 
-- :school: Passionate and skilled Blockchain Developer offering 6 years of relevant experience and a proven track record of success in achieving extraordinary results. With strong attention to detail and accuracy and the important ability to function well in a team setting, David is looking for a Blockchain Developer job within a forward-moving company.
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking:
-- :nerd_face: Always `learning new things`
+- 🔭 I’m currently working on [Django development](https://github.com/huseynmv/PragmatechPythonProject)
+
+- 🌱 I’m currently learning **Python/Django**
+
+- 👨‍💻 All of my projects are available at [huseynmv.herokuapp.com](https://huseynmv.herokuapp.com)
+
+- 📝 I regularly write articles on [https://medium.com/@huseynmv](https://medium.com/@huseynmv)
+
+- 📫 How to reach me **huseynmv@yahoo.com**
 
 
 
