@@ -7,9 +7,9 @@ back-end Developer ,Self - Taught Developer,and Web Enthusiast.
 
 
 
+<!-- <br>
 <br>
-<br>
-<br>
+<br>-->
 
 <!-- <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px><h2 align="left" font-weight="bold">About me</h2>   -->
 
@@ -21,9 +21,9 @@ back-end Developer ,Self - Taught Developer,and Web Enthusiast.
 - 🌱 I’m currently learning **Python/Django**
 
 - 📫 How to reach me **TahaM8000@gmail.com** -->
-
+<!-- 
 <br>
-<br>
+<br>-->
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/taha-mousavi-301b88245/) -->
 <!-- [![Facebook Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.facebook.com/nadjafovp/)
